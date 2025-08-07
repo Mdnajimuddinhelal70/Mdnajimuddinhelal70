@@ -1,5 +1,5 @@
 
-![A passionate MERN Stack Developer]([https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif))
+![MERN Dev](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ### Hi there 👋, My Name is Najim Uddin
 #### A passionate MERN Stack Developer
 

@@ -1,8 +1,10 @@
 
-![MERN Dev](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-### Hi there 👋, My Name is Najim Uddin
-#### A passionate MERN Stack Developer
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000" height="300" style="object-fit: cover;" />
+</div>
 
+# 👋 Hi there, I'm Najim Uddin
+### 🚀 A passionate MERN Stack Developer
 
 Hi there! 
 I'm Najim Uddin Helal — a self-taught and passionate MARN Stack Developer who loves building web apps with NextJs, ReactJs, Node.js & MongoDB. I’ve been learning and coding consistently for 2+ years, and I enjoy turning ideas into real, usable projects.  

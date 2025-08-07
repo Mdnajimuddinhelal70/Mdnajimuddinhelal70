@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Najim Uddin
 #### A passionate MERN Stack Developer
-![A passionate MERN Stack Developer](https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg)
+![A passionate MERN Stack Developer]([https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif))
 
 Hi there! 
 I'm Najim Uddin Helal — a self-taught and passionate MARN Stack Developer who loves building web apps with NextJs, ReactJs, Node.js & MongoDB. I’ve been learning and coding consistently for 2+ years, and I enjoy turning ideas into real, usable projects.  

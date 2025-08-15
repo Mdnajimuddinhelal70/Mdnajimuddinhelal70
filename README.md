@@ -32,10 +32,6 @@ Skills: NEXT/ REACT / JS / HTML / CSS
 
 
 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Mdnajimuddinhelal70&show_icons=true&count_private=true)  
-
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Mdnajimuddinhelal70/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/Mdnajimuddinhelal70)  

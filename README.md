@@ -21,7 +21,7 @@ Skills: NEXT/ REACT / JS / HTML / CSS
 - 👯 I’m looking to collaborate on Open-source MERN stack projects, especially tools that help beginners learn faster or solve real-life problems. 
 - 🤔 I’m looking for help with Landing my first full-time developer role, improving system design skills, and writing scalable backend code. 
 - 💬 Ask me about React, Node.js, Express, MongoDB, Firebase, Git, REST APIs, and deploying full-stack projects. 
-- 📫 How to reach me: 📧 Email: najimuddin77288@gmail.com   💼 LinkedIn: [https://www.linkedin.com/in/najim-uddin-helal-7994a1363/](https://www.linkedin.com/in/najim-uddin-helal-7994a1363/)   🌐 Portfolio: [https://my-protfolio-phi-seven.vercel.app/](https://my-protfolio-phi-seven.vercel.app/) 
+- 📫 How to reach me: 📧 Email: najimuddin77288@gmail.com   💼 LinkedIn: [https://www.linkedin.com/in/najim-uddin-helal-7994a1363/](https://www.linkedin.com/in/najim-uddin-helal-7994a1363/)   🌐 Portfolio: [https://my-protfolio-phi-seven.vercel.app/](https://najim-uddin.vercel.app/) 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I’ve built more than 15+ full-stack projects during my learning journey, and I absolutely love debugging — it feels like solving a mini puzzle every time! 
 
